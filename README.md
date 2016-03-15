@@ -1,12 +1,13 @@
 Deep Learning Study
 ===================
 
-Study of HeXA at UNIST.
+Study of HeXA at Ulsan National Institute of Science and Technology.
+
 
 Reasoning
 --------
 
-[slide](./1_reasoning.pdf) (3/16)
+[Slide](./1_reasoning.pdf) (3/16)
 
 - [E2E MN] End-To-End Memory Networks [[paper](http://arxiv.org/abs/1503.08895)]
     - Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus
