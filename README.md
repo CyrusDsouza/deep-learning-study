@@ -7,7 +7,7 @@ Study of HeXA at Ulsan National Institute of Science and Technology.
 Reasoning
 --------
 
-[Slide](./1_reasoning.pdf) (3/16)
+[Deep Reasoning presentation](./1_reasoning.pdf) (3/17)
 
 - [E2E MN] End-To-End Memory Networks [[paper](http://arxiv.org/abs/1503.08895)]
     - Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus
