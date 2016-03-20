@@ -12,7 +12,6 @@ Implementations
 - **NTM-tensorflow** : [Neural Turing Machine](http://arxiv.org/abs/1410.5401) implementation in Tensorflow. [[code](https://github.com/carpedm20/NTM-tensorflow)]
 - lstm-char-cnn-tensorflow : [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615) implementation in Tensorflow. [[code](https://github.com/carpedm20/lstm-char-cnn-tensorflow)]
 - **visual-analogy-tensorflow** : [Deep Visual Analogy-Making](http://www-personal.umich.edu/~reedscot/nips2015.pdf) implementation in Tensorflow. [[code](https://github.com/carpedm20/visual-analogy-tensorflow)]
-- attentive-reader-tensorflow : [Teaching Machines to Read and Comprehend](http://arxiv.org/pdf/1506.03340v3.pdf) in Tensorflow. [[code](https://github.com/carpedm20/attentive-reader-tensorflow)]
 - variational-text-tensorflow : [Neural Variational Inference for Text Processing](http://arxiv.org/abs/1511.06038) in Tensorflow. [[code](https://github.com/carpedm20/variational-text-tensorflow)]
 - text-based-game-rl-tensorflow : [Language Understanding for Text-based Games using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941) implementation in Tensorflow. [[code](https://github.com/carpedm20/text-based-game-rl-tensorflow)]
 - neural-summary-tensorflow : [Attention-Based Summarization](http://arxiv.org/abs/1509.00685) implementation in TensorFlow. [[code](https://github.com/carpedm20/neural-summary-tensorflow)] \(*in progress*\)
