@@ -8,6 +8,7 @@ Implementations
 ---------------
 
 - **DCGAN-tensorflow** : [Deep Convolutional GAN](http://arxiv.org/abs/1511.06434v1) implementation in Tensorflow. [[code](https://github.com/carpedm20/DCGAN-tensorflow)] [[demo](http://carpedm20.github.io/faces/)]
+- **DQN-tensorflow** :: [Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) implementation in Tensorflow. [[code](https://github.com/devsisters/DQN-tensorflow/)]
 - **MemN2N-tensorflow** : [End-To-End Memory Network](http://arxiv.org/abs/1503.08895v4) implementation in Tensorflow. [[code](https://github.com/carpedm20/MemN2N-tensorflow)]
 - **NTM-tensorflow** : [Neural Turing Machine](http://arxiv.org/abs/1410.5401) implementation in Tensorflow. [[code](https://github.com/carpedm20/NTM-tensorflow)]
 - lstm-char-cnn-tensorflow : [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615) implementation in Tensorflow. [[code](https://github.com/carpedm20/lstm-char-cnn-tensorflow)]
